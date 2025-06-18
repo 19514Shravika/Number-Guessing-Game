@@ -37,8 +37,11 @@ User input and validation
 Random number generation (random module)
 
 📁 Project Structure
+
 📦 number-guessing-game/
+
  ┣ 📄 number_guessing_game.py
+ 
  ┗ 📄 README.md
 🤝 Contributing
 Pull requests are welcome! If you'd like to improve the game or add features, feel free to fork and contribute.
